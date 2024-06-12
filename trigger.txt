@@ -1,1 +1,1 @@
-getsentry/sentry:22.9.0 registry.cn-hangzhou.aliyuncs.com/thinknull/getsentry/sentry:22.9.0
+getsentry/sentry:22.9.0  registry.cn-hangzhou.aliyuncs.com/thinknull/getsentry/sentry:22.9.0
